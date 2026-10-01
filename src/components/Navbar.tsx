@@ -29,11 +29,11 @@ export const Navbar: React.FC<NavbarProps> = ({ speed, scrollProgress }) => {
           {/* Brand Logo */}
           <div className="flex items-center gap-3">
             <div className="w-10 h-10 rounded-xl bg-gradient-to-br from-brand-lime to-emerald-500 flex items-center justify-center shadow-lg shadow-brand-lime/20 text-black font-black text-xl tracking-tighter">
-              IF
+              SY
             </div>
             <div>
               <div className="flex items-center gap-2">
-                <span className="font-extrabold text-white text-lg tracking-wider">ITZ FIZZ</span>
+                <span className="font-extrabold text-white text-lg tracking-wider">SYAMA</span>
                 <span className="inline-block px-1.5 py-0.5 text-[10px] font-mono font-bold uppercase bg-brand-lime/20 text-brand-lime rounded border border-brand-lime/30">
                   GT 720S
                 </span>
@@ -84,7 +84,7 @@ export const Navbar: React.FC<NavbarProps> = ({ speed, scrollProgress }) => {
 
             {/* GitHub Link */}
             <a
-              href="https://github.com/syamamaheshchand/itsfizz-scroll-car-animation"
+              href="https://github.com/syamamaheshchand/syama-scroll-car-animation"
               target="_blank"
               rel="noopener noreferrer"
               className="p-2 rounded-xl bg-white/5 hover:bg-white/10 text-slate-300 hover:text-white border border-white/10 transition-colors"

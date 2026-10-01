@@ -65,7 +65,7 @@ export const FeaturesSection: React.FC<FeaturesSectionProps> = ({ onScrollToTop 
             </div>
             <h3 className="text-xl font-bold text-white mb-2">Dynamic Letter Ignition</h3>
             <p className="text-slate-400 text-sm leading-relaxed mb-4">
-              Each character in <code className="text-brand-orange font-mono">WELCOME ITZFIZZ</code> calculates real-time coordinate collision with the vehicle bumper, illuminating with custom neon glow filters.
+              Each character in <code className="text-brand-orange font-mono">WELCOME SYAMA</code> calculates real-time coordinate collision with the vehicle bumper, illuminating with custom neon glow filters.
             </p>
             <div className="flex items-center gap-2 text-xs font-mono text-brand-orange">
               <CheckCircle2 className="w-4 h-4" /> <span>Coordinate Hit-Detection</span>
@@ -118,7 +118,7 @@ export const FeaturesSection: React.FC<FeaturesSectionProps> = ({ onScrollToTop 
         {/* Footer */}
         <div className="flex flex-col sm:flex-row items-center justify-between gap-4 text-xs font-mono text-slate-500 pt-8 border-t border-white/5">
           <div>
-            © {new Date().getFullYear()} ITZ FIZZ. Built for Frontend Animation Assignment.
+            © {new Date().getFullYear()} SYAMA. Built for Frontend Animation Assignment.
           </div>
           <div className="flex items-center gap-6">
             <span>React + TypeScript</span>

@@ -1,4 +1,4 @@
-# ITZ FIZZ — Scroll-Driven Supercar Hero Section Animation
+# SYAMA — Scroll-Driven Supercar Hero Section Animation
 
 [![React](https://img.shields.io/badge/React-19.0-61DAFB?logo=react&logoColor=black)](https://react.dev/)
 [![GSAP](https://img.shields.io/badge/GSAP-3.12-88CE02?logo=greensock&logoColor=white)](https://greensock.com/gsap/)
@@ -23,7 +23,7 @@ A high-performance, responsive scroll-driven hero section animation inspired by 
 - Occupies the first screen (`100vh` sticky pinned viewport).
 - Bold, letter-spaced headline across the track:
   ```
-  W  E  L  C  O  M  E     I  T  Z  F  I  Z  Z
+  W  E  L  C  O  M  E     S  Y  A  M  A
   ```
 - 4 High-Impact Metric / Statistics cards matching the reference color scheme:
   - **Box 1 (#def54f - Lime/Yellow)**: `58%` — Increase in pick up point use
@@ -75,10 +75,10 @@ A high-performance, responsive scroll-driven hero section animation inspired by 
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/itsfizz-scroll-car-animation.git
+git clone https://github.com/syamamaheshchand/syama-scroll-car-animation.git
 
 # Navigate into the project directory
-cd itsfizz-scroll-car-animation
+cd syama-scroll-car-animation
 
 # Install dependencies
 npm install

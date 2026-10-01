@@ -27,7 +27,7 @@ export const HeroSection: React.FC<HeroSectionProps> = ({ onTelemetryUpdate }) =
   // Animated counters
   const [counts, setCounts] = useState({ stat1: 58, stat2: 23, stat3: 27, stat4: 40 });
 
-  const headlineLetters = ['W', 'E', 'L', 'C', 'O', 'M', 'E', ' ', 'I', 'T', 'Z', 'F', 'I', 'Z', 'Z'];
+  const headlineLetters = ['W', 'E', 'L', 'C', 'O', 'M', 'E', ' ', 'S', 'Y', 'A', 'M', 'A'];
 
   useEffect(() => {
     const container = containerRef.current;
@@ -258,7 +258,7 @@ export const HeroSection: React.FC<HeroSectionProps> = ({ onTelemetryUpdate }) =
           <div className="flex items-center gap-2">
             <span className="w-2 h-2 rounded-full bg-brand-lime animate-pulse" />
             <span className="text-xs font-mono font-bold tracking-widest text-slate-300 uppercase">
-              ITZ FIZZ // SCROLL-DRIVEN HERO DEMO
+              SYAMA // SCROLL-DRIVEN HERO DEMO
             </span>
           </div>
           <div className="hidden sm:flex items-center gap-2 text-xs font-mono text-slate-400 bg-white/5 px-3 py-1 rounded-full border border-white/10">
